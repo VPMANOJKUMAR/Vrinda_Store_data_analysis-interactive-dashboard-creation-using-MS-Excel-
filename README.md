@@ -31,7 +31,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## **Dashboard**
 
-![Alt text of the image]("C:\Users\hp\OneDrive\Desktop\manoj kumar\Data Analyst\excel\vrinda_store_dashboard.png")
+![Alt text of the image](C:\Users\hp\OneDrive\Desktop\manoj kumar\Data Analyst\excel\vrinda_store_dashboard.png)
 
 
 
